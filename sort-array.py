@@ -7,3 +7,5 @@ for i in range(len(num)):
             num[i]=num[j]
             num[j]=temp
 print(num)
+
+
